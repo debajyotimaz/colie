@@ -1,2 +1,2 @@
 # colie
-Kaggle competition
+CoLiE: Automatic Classification of Literary Epochs (Kaggle competition)
